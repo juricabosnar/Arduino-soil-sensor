@@ -1,4 +1,3 @@
-'''
 /****************** code made by PARTH SANTOSH KUNNIR************/
 /****************** code is subjected to copy right**************/
 
@@ -24,4 +23,3 @@ void loop()
 
   delay(250); // for stability 
 }
-'''
